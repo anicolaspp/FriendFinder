@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "FirstViewController.loginButton(FBSDKLoginButton!, didCompleteWith : FBSDKLoginManagerLoginResult!, error : Error!) -&gt; ():FirstViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "UserProfileViewController.(viewDidLoad() -&gt; ()).(closure #1):UserProfileViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "p?.linkURL">
+            </PersistentString>
+            <PersistentString
+               value = "p?.userID">
+            </PersistentString>
+            <PersistentString
+               value = "p?.firstName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
